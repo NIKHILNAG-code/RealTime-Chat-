@@ -12,3 +12,9 @@ Task -    full-stack project aims to develop a modern web application with a dyn
 
 
 Using Visual Stdio 
+
+
+
+output
+             ![Image](https://github.com/user-attachments/assets/ef77608d-468a-4464-afbd-f3a93fca989d)
+               
